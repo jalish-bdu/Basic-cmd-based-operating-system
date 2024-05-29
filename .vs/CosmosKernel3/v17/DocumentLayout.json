@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Md Jalish Mahamud\\source\\repos\\CosmosKernel3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DB5C0B-C9B0-46CA-8B03-BF6B55A6D35A}|CosmosKernel3\\CosmosKernel3.csproj|c:\\users\\md jalish mahamud\\source\\repos\\cosmoskernel3\\cosmoskernel3\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DB5C0B-C9B0-46CA-8B03-BF6B55A6D35A}|CosmosKernel3\\CosmosKernel3.csproj|solutionrelative:cosmoskernel3\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "C:\\Users\\Md Jalish Mahamud\\source\\repos\\CosmosKernel3\\CosmosKernel3\\Kernel.cs",
+              "RelativeDocumentMoniker": "CosmosKernel3\\Kernel.cs",
+              "ToolTip": "C:\\Users\\Md Jalish Mahamud\\source\\repos\\CosmosKernel3\\CosmosKernel3\\Kernel.cs",
+              "RelativeToolTip": "CosmosKernel3\\Kernel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:03:35.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

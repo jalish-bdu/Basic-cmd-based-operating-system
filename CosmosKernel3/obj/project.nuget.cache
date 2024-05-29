@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AOdA2I+/MoRJgHo+gsA8z+tNOxyXgdtKMYKTgAIMoRQEx7DcZ1TyAuUo0+QtI4+iqLfPUUYpwTcyxKCyleSlng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Md Jalish Mahamud\\source\\repos\\CosmosKernel3\\CosmosKernel3\\CosmosKernel3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Md Jalish Mahamud\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20221121055958\\cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512",
+    "C:\\Users\\Md Jalish Mahamud\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20221121060004\\cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Md Jalish Mahamud\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20221121060004\\cosmos.core.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Md Jalish Mahamud\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20221121060004\\cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Md Jalish Mahamud\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20221121060004\\cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Md Jalish Mahamud\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20221121060004\\cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Md Jalish Mahamud\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20221121060004\\il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512"
+  ],
+  "logs": []
+}

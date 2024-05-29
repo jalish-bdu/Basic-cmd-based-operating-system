@@ -1,0 +1,12 @@
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\bin\Debug\net6.0\CosmosKernel3.deps.json
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\bin\Debug\net6.0\CosmosKernel3.dll
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\bin\Debug\net6.0\CosmosKernel3.pdb
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\obj\Debug\net6.0\CosmosKernel3.csproj.AssemblyReference.cache
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\obj\Debug\net6.0\CosmosKernel3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\obj\Debug\net6.0\CosmosKernel3.AssemblyInfoInputs.cache
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\obj\Debug\net6.0\CosmosKernel3.AssemblyInfo.cs
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\obj\Debug\net6.0\CosmosKernel3.csproj.CoreCompileInputs.cache
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\obj\Debug\net6.0\CosmosKernel3.dll
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\obj\Debug\net6.0\refint\CosmosKernel3.dll
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\obj\Debug\net6.0\CosmosKernel3.pdb
+C:\Users\Md Jalish Mahamud\source\repos\CosmosKernel3\CosmosKernel3\obj\Debug\net6.0\ref\CosmosKernel3.dll
